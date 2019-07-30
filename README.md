@@ -4,11 +4,11 @@
 * Line coding encoder and scrambler with digital data generator
 
 ## Language and Libraries Used
-*Language Used : C++
-*IDE used : Codeblocks 16.01
-*API used : OpenGL
-*Libraries : string, stdlib
-*Linker settings : GL, GLU ,GLEW, glut
+* Language Used : C++
+* IDE used : Codeblocks 16.01
+* API used : OpenGL
+* Libraries : string, stdlib
+* Linker settings : GL, GLU ,GLEW, glut
 
 ## Assumptions
 * User is familiar with Line encoding schemes.
